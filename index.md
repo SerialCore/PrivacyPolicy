@@ -17,3 +17,7 @@ This app is a tool for front camera usage, and it won't store or transfer privat
 ### Motion Recorder
 
 This app only records sensor data, and it won't submit or transfer these data in any way.
+
+### Chess Games
+
+The chess games only provide local game experience, and won't record and transfer private data.
