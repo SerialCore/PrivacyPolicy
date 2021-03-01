@@ -8,7 +8,7 @@ Please note that this app would never utilize any user data for malignant purpos
 
 ### PaintPanel
 
-Paint Panel would never submit or transfer your personal information.
+Paint Panel will never submit or transfer your personal information.
 
 ### MirrorScreen
 
@@ -18,6 +18,14 @@ This app is a tool for front camera usage, and it won't store or transfer privat
 
 This app only records sensor data, and it won't submit or transfer these data in any way.
 
-### Chess Games
+### Chess Games (Easy Five, Easy Othello)
 
 The chess games only provide local game experience, and won't record and transfer private data.
+
+### Calculatre
+
+This calculator app only records calculation history, and won't transfer it.
+
+### 物理实验助手
+
+This app will never submit or transfer your personal information.
