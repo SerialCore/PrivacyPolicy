@@ -12,4 +12,8 @@ Paint Panel would never submit or transfer your personal information.
 
 ### MirrorScreen
 
-This app is a tool for front camera usage, and it won't store or transform private data in any way.
+This app is a tool for front camera usage, and it won't store or transfer private data in any way.
+
+### Motion Recorder
+
+This app only records sensor data, and it won't submit or transfer these data in any way.
