@@ -9,3 +9,7 @@ Please note that this app would never utilize any user data for malignant purpos
 ### PaintPanel
 
 Paint Panel would never submit or transfer your personal information.
+
+### MirrorScreen
+
+This app is a tool for front camera usage, and it won't store or transform private data in any way.
